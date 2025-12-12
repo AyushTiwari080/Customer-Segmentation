@@ -104,3 +104,14 @@ jupyter notebook Untitled.ipynb
 
 5. View cluster results in Cluster_data.csv.
 
+
+## 💡 Insights & Recommendations
+- **Segment customers based on income and spending habits**
+- **Target high-value customers with loyalty programs**
+- **Offer personalized promotions to lower-spending clusters**
+
+## 🔮 Future Enhancements
+- **Implement Hierarchical or DBSCAN clustering**
+- **Incorporate additional features (transaction history and etc)**
+- **Deploy as a Streamlit / Dash web application**
+
